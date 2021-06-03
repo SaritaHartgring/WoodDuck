@@ -1,0 +1,25 @@
+WoodDucks ChangLOG
+
+20210603:
+<Combined Data 20210603 v1.0.0 xls> into <Combined Data 20210603 v1.1.0 xls> 
+
+
+# Data cleaning: 
+
+## Adjusted
+
+### Mass: 
+ID U10C, O3B, T2B, T6A, T9 into gr (x1000)
+
+### Number of eggs: 
+ID O3A into 5 (removed ?)
+ID A1B removed probably at ; 14 
+
+### Incubation period: 
+ID N8, O3A, T9; added missing
+
+### Nest inititation:
+ID T6A; added missing
+
+Project Data was cleaned and checked, missing data was highlighted.
+Missing data needs to be converted into number for further analyses.
